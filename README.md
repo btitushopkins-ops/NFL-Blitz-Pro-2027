@@ -35,6 +35,7 @@ stats, and appearance data — only audio behavior differs.
   not provide the game itself (see Legal section)
 - A GameCube memory card slot configured in Dolphin, with room for one
   save
+- You can get the save on a memory card through a soft modded Wii, then load it on a stock Game Cube.
 
 ## Installation
 
