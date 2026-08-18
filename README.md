@@ -24,7 +24,7 @@ data but differing in how commentary audio is handled:
 | `5D-GFVE-ROSTER__3a__AUDIO0.gci` | All name-based commentary suppressed — every player uses the generic ("he"/"the receiver"/etc.) fallback. Use this if you'd rather never hear a wrong or mismatched name. |
 | `5D-GFVE-ROSTER__3a__AUDIO2.gci` | Conservative — only exact full-name matches (first + last) are pinned to their donor's audio; everything else falls back to generic commentary. |
 
-Pick whichever variant fits your tolerance for the occasional "wrong era"
+Pick whichever variant fits your tolerance for the occasional wrong first name 
 name callout vs. generic commentary. All three have the same rosters,
 stats, and appearance data — only audio behavior differs.
 
@@ -52,12 +52,12 @@ stats, and appearance data — only audio behavior differs.
    
  4. The files can be renamed in the game. Files will not load if you rename them outside of the game.
 
-You can load all 3 save files on to one memory card folder. .
+You can load all 3 save files on to one memory card folder.
 
 ## What's changed from the original 2003 roster
 
 - Rosters updated using Madden 2027 ratings as the primary data source,
-  converted to the Blitz stat scale.
+  converted to the Blitz stats.
 - Positions where the stock 2003 roster (or Madden's own depth charts)
   came up short — most notably fullback — are backfilled with additional
   real players sourced from team depth charts, so every team has a full,
@@ -85,7 +85,7 @@ You can load all 3 save files on to one memory card folder. .
   data notes if you're contributing player look-ups.
 - Playbooks are based on the playbooks for the original rosters so a 2027 passing team may have a running team's playbook.
   Fortunately you can select any playbook and audibles if you create a user profile and save it.
-  Play books are decsribed in the game base of of the original team from 2003.
+  Play books are described in the game base off of the original team from 2003.
 - This is a hobby project maintained on a best-effort basis, not an
   officially supported release.
 
